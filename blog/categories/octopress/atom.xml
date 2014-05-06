@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-05-06T06:52:31-07:00</updated>
+  <updated>2014-05-06T07:13:20-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Theming Octopress with Octostrap]]></title>
+    <link href="http://wllmtrng.github.io/blog/2014/05/06/theming-octopress-with-octostrap/"/>
+    <updated>2014-05-06T07:01:12-07:00</updated>
+    <id>http://wllmtrng.github.io/blog/2014/05/06/theming-octopress-with-octostrap</id>
+    <content type="html"><![CDATA[<p>After going back and forth in between themes for Octopress
+and having each theme define different behavior for things
+like the navbar, I recommend moving to the OctoStrap 3.1.
+Octostrap 3.1 is basically a theming agent that allows
+you to select themes on top of OctoStrap using Twitter
+Bootstrap 3.1.</p>
+
+<p>Note: If you already have some themes installed, I
+recommend installing OctoStrap 3.1 on top of a clean
+octopress install in case if there are unremoved artifacts
+from your previous theme.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Creating a Linklog Post]]></title>
