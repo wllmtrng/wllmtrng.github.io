@@ -3,7 +3,7 @@ layout: post
 title: "An Overview of MITx: 15.390x Entrepreneurship 101: Who is your customer?"
 date: 2014-05-02 11:00:45 -0700
 comments: true
-categories: [course reviews]
+categories: [course overviews]
 ---
 [1]: https://courses.edx.org
 [2]: http://mitsloan.mit.edu/faculty/detail.php?in_spseqno=9118
