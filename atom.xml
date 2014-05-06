@@ -4,7 +4,7 @@
   <title><![CDATA[New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-05-06T07:13:20-07:00</updated>
+  <updated>2014-05-06T07:14:17-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -25,7 +25,7 @@ Octostrap 3.1 is basically a theming agent that allows
 you to select themes on top of OctoStrap using Twitter
 Bootstrap 3.1.</p>
 
-<p>Note: If you already have some themes installed, I
+<p><strong>Note:</strong> If you already have some themes installed, I
 recommend installing OctoStrap 3.1 on top of a clean
 octopress install in case if there are unremoved artifacts
 from your previous theme.</p>

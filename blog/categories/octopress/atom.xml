@@ -60,7 +60,7 @@ to the master branch octopress as of today, April 17,
 <li>Open the file <code>.../source/_includes/article.html</code></li>
 <li>Under  <code>&lt;header&gt;</code> tag, replace the first if else block with:
 <code>html
-{% raw %}
+
 &lt;header&gt;
 {% if index %}
 {% if post.external-url %}&lt;!-- This defines how Octopress will use posts with external-url. --&gt;
@@ -75,7 +75,7 @@ to the master branch octopress as of today, April 17,
   &lt;h1 class=&quot;entry-title&quot;&gt;{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}&lt;/h1&gt;
 {% endif %}
 {% endif %}
-{% endraw %}
+
 </code>
 If you don&#39;t want to use my &rArr; symbol, search for
 <code>&amp;rArr;</code> and replace it with your own.</li>
