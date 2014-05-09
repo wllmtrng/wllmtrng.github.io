@@ -3,7 +3,7 @@ layout: post
 title: "Creating a Linklog Post"
 date: 2014-04-17 06:46:36 -0700
 comments: true
-categories: [octopress, tutorials]
+categories: [octopress]
 ---
 [1]: http://daringfireball.net
 [2]: http://octopress.org/docs/blogging/linklog/

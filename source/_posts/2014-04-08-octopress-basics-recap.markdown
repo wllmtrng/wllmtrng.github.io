@@ -3,7 +3,7 @@ layout: post
 title: "Octopress Basics Recap"
 date: 2014-04-08 06:43:14 -0700
 comments: true
-categories: [octopress, tutorials, markdown]
+categories: [octopress, markdown]
 ---
 ```bash Octopress Cheatsheet
 # create a new post

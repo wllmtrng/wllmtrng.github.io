@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up Octopress"
 date: 2014-03-31 06:47:11 -0700
 comments: true
-categories: [octopress, tutorials]
+categories: [octopress]
 external-url: http://octopress.org/docs/setup/
 ---
 [1]: http://octopress.org/docs/deploying
