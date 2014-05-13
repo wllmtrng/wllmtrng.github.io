@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: git | New Learnings from Old Understandings]]></title>
+  <link href="http://wllmtrng.github.io/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://wllmtrng.github.io/"/>
+  <updated>2014-05-13T06:39:05-07:00</updated>
+  <id>http://wllmtrng.github.io/</id>
+  <author>
+    <name><![CDATA[William Truong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git Internals Overview]]></title>
+    <link href="http://wllmtrng.github.io/blog/2014/05/09/git-internal-basics/"/>
+    <updated>2014-05-09T11:28:29-07:00</updated>
+    <id>http://wllmtrng.github.io/blog/2014/05/09/git-internal-basics</id>
+    <content type="html"><![CDATA[<p>Sometimes it&#39;s easy to use something and not know how it
+works. For those of you that don&#39;t know how git works
+internally, here&#39;s a link for you. Learn how Git
+tracks files and how it is different than traditional 
+version control systems like svn.</p>
+]]></content>
+  </entry>
+  
+</feed>
