@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-05-28T21:46:43-07:00</updated>
+  <updated>2014-05-28T22:14:02-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The Ultimate Git Reference Site]]></title>
+    <title type="html"><![CDATA[Git References]]></title>
     <link href="http://wllmtrng.github.io/blog/2014/05/28/the-ultimate-git-reference-site/"/>
     <updated>2014-05-28T21:36:38-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/05/28/the-ultimate-git-reference-site</id>
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<ul>
+<li>Overview at <a href="%5Bhttp://git-scm.com/book%5D">git-scm.com/book</a></li>
+<li>Reference at <a href="%5Bhttp://gitref.org/%5D">gitref.org</a></li>
+</ul>
+]]></content>
   </entry>
   
   <entry>
@@ -28,19 +32,6 @@
     <id>http://wllmtrng.github.io/blog/2014/05/28/synching-with-upstream-repository</id>
     <content type="html"><![CDATA[<p>Here are instructions on how to merge your forked
 repository with new changes from the original repository.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Git Internals Overview]]></title>
-    <link href="http://wllmtrng.github.io/blog/2014/05/09/git-internal-basics/"/>
-    <updated>2014-05-09T11:28:29-07:00</updated>
-    <id>http://wllmtrng.github.io/blog/2014/05/09/git-internal-basics</id>
-    <content type="html"><![CDATA[<p>Sometimes it&#39;s easy to use something and not know how it
-works. For those of you that don&#39;t know how git works
-internally, here&#39;s a link for you. Learn how Git
-tracks files and how it is different than traditional 
-version control systems like svn.</p>
 ]]></content>
   </entry>
   
