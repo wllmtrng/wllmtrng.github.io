@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Underlying Infrastructure is a Must"
 date: 2014-04-29 07:46:34 -0700
 comments: true
-categories: [personal lessons] 
+categories: [personal reminders] 
 ---
 Although the point of a framework is to create an
 abstraction over a piece of work to make things 
