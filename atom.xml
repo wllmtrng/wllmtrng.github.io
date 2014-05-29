@@ -4,7 +4,7 @@
   <title><![CDATA[New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-05-28T21:32:06-07:00</updated>
+  <updated>2014-05-28T21:37:11-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -12,6 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Ultimate Git Reference Site]]></title>
+    <link href="http://wllmtrng.github.io/blog/2014/05/28/the-ultimate-git-reference-site/"/>
+    <updated>2014-05-28T21:36:38-07:00</updated>
+    <id>http://wllmtrng.github.io/blog/2014/05/28/the-ultimate-git-reference-site</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Syncing with an Upstream Repository]]></title>
