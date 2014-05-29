@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: personal lessons | New Learnings from Old Understandings]]></title>
-  <link href="http://wllmtrng.github.io/blog/categories/personal-lessons/atom.xml" rel="self"/>
+  <title><![CDATA[Category: personal reminders | New Learnings from Old Understandings]]></title>
+  <link href="http://wllmtrng.github.io/blog/categories/personal-reminders/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-05-28T21:37:11-07:00</updated>
+  <updated>2014-05-28T21:46:43-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
