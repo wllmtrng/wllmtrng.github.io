@@ -4,7 +4,7 @@
   <title><![CDATA[Category: REST | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/rest/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-07-13T22:54:23-07:00</updated>
+  <updated>2014-07-16T11:07:38-07:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[RESTful Architecture Refresher]]></title>
+    <title type="html"><![CDATA[REST References]]></title>
     <link href="http://wllmtrng.github.io/blog/2014/07/13/restful-architecture-refresher/"/>
     <updated>2014-07-13T22:09:58-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/07/13/restful-architecture-refresher</id>
-    <content type="html"><![CDATA[<p>A good refresher on the REST architecture.</p>
+    <content type="html"><![CDATA[<ul>
+<li>REST API Overview at <a href="%5Bhttp://www.restapitutorial.com%5D">restapitutorial</a></li>
+<li>RESTful lessons at <a href="%5Bhttp://restful-api-design.readthedocs.org/en/latest/%5D">restful-api-design</a></li>
+<li>The Dissertation from which REST was conceived at <a href="%5Bhttp://www.ics.uci.edu/%7Efielding/pubs/dissertation/rest_arch_style.htm%5D">REST Architectural Style</a></li>
+</ul>
 ]]></content>
   </entry>
   
