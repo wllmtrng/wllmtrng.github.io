@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-07-16T11:07:38-07:00</updated>
+  <updated>2014-12-05T06:05:14-08:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -19,8 +19,8 @@
     <updated>2014-05-28T21:36:38-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/05/28/the-ultimate-git-reference-site</id>
     <content type="html"><![CDATA[<ul>
-<li>Overview at <a href="%5Bhttp://git-scm.com/book%5D">git-scm.com/book</a></li>
-<li>Reference at <a href="%5Bhttp://gitref.org/%5D">gitref.org</a></li>
+<li>Overview at <a href="http://git-scm.com/book">git-scm.com/book</a></li>
+<li>Reference at <a href="http://gitref.org/">gitref.org</a></li>
 </ul>
 ]]></content>
   </entry>
