@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://wllmtrng.github.io/sitemap.xml 
+Sitemap: http://wllmtrng.github.io/sitemap.xml
