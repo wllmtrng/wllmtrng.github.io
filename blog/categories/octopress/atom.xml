@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: octopress | New Learnings from Old Understandings]]></title>
+  <title><![CDATA[Category: Octopress | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-12-05T06:05:14-08:00</updated>
+  <updated>2014-12-11T00:28:34-08:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Theming Octopress with Octostrap]]></title>
+    <title type="html"><![CDATA[Theming Octopress With Octostrap]]></title>
     <link href="http://wllmtrng.github.io/blog/2014/05/06/theming-octopress-with-octostrap/"/>
     <updated>2014-05-06T07:01:12-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/05/06/theming-octopress-with-octostrap</id>
@@ -52,9 +52,9 @@ yourself right now since that tutorial does not apply
 to the master branch octopress as of today, April 17,
 2014. (A prime example of the Wild Wild West of Github.)</p>
 
-<h2 id="toc_0">Configuring for Linklog Support</h2>
+<h2 id="configuring-for-linklog-support">Configuring for Linklog Support</h2>
 
-<h3 id="toc_1">Add linklog support to the article html template</h3>
+<h3 id="add-linklog-support-to-the-article-html-template">Add linklog support to the article html template</h3>
 
 <ul>
 <li>Open the file <code>.../source/_includes/article.html</code></li>
@@ -85,7 +85,7 @@ If you don&#39;t want to use my &rArr; symbol, search for
 post, simply add a line defining the external-url in the
 YAML block of your post like this:</p>
 
-<h2 id="toc_2">```yaml</h2>
+<h2 id="```yaml">&#8220;`yaml</h2>
 
 <p>layout: post
 title: &quot;Setting Up Octopress&quot;
@@ -93,8 +93,8 @@ date: 2014-03-31 06:47:11 -0700
 comments: true
 categories: [octopress, tutorial]</p>
 
-<h2 id="toc_3">external-url: <a href="http://octopress.org/docs/setup/">http://octopress.org/docs/setup/</a></h2>
-<div class="highlight"><pre><code class="text">
+<h2 id="external-url:-http://octopress.org/docs/setup/">external-url: <a href="http://octopress.org/docs/setup/">http://octopress.org/docs/setup/</a></h2>
+<div class="highlight"><pre><code class="language-text" data-lang="text">
 </code></pre></div>]]></content>
   </entry>
   
@@ -103,28 +103,28 @@ categories: [octopress, tutorial]</p>
     <link href="http://wllmtrng.github.io/blog/2014/04/08/octopress-basics-recap/"/>
     <updated>2014-04-08T06:43:14-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/04/08/octopress-basics-recap</id>
-    <content type="html"><![CDATA[<p>```bash Octopress Cheatsheet</p>
+    <content type="html"><![CDATA[<p>&#8220;`bash Octopress Cheatsheet</p>
 
-<h1 id="toc_0">create a new post</h1>
+<h1 id="create-a-new-post">create a new post</h1>
 
 <p>rake new_post[&#39;Title of the post&#39;]</p>
 
-<h1 id="toc_1">create a new page</h1>
+<h1 id="create-a-new-page">create a new page</h1>
 
 <p>rake new_page[&#39;Title of the page&#39;]</p>
 
-<h1 id="toc_2">preview your work</h1>
+<h1 id="preview-your-work">preview your work</h1>
 
 <p>rake preview</p>
 
-<h1 id="toc_3">publish it</h1>
+<h1 id="publish-it">publish it</h1>
 
 <p>rake generate &amp;&amp; rake deploy</p>
 
-<h1 id="toc_4">commit and backup(automatic message)</h1>
+<h1 id="commit-and-backup(automatic-message)">commit and backup(automatic message)</h1>
 
 <p>git commit -am &quot;<code>date</code>&quot; &amp;&amp; git push origin source
-```</p>
+&#8220;`</p>
 ]]></content>
   </entry>
   
@@ -160,14 +160,14 @@ useful guides. Stay tuned!</p>
 
 <p>Be sure to follow the links under the &quot;Next Steps&quot; section to <a href="http://octopress.org/docs/deploying">set up deployment</a>, <a href="http://octopress.org/docs/configuring">configure your blog</a>, and <a href="http://octopress.org/docs/blogging">start blogging</a>. Below are some tips for each of the section.</p>
 
-<h2 id="toc_0"><a href="http://octopress.org/docs/deploying">Setting Up Deployment</a>&rArr;</h2>
+<h2 id="setting-up-deployment&rarr;"><a href="http://octopress.org/docs/deploying">Setting Up Deployment</a>&rArr;</h2>
 
 <p>As you can see, I am using github pages to host my
 blog. I would imagine the other two choices would be
 just as easy to set up if you are already using that
 workflow.</p>
 
-<h2 id="toc_1"><a href="http://octopress.org/docs/configuring">Configuring Octopress</a>&rArr;</h2>
+<h2 id="configuring-octopress&rarr;"><a href="http://octopress.org/docs/configuring">Configuring Octopress</a>&rArr;</h2>
 
 <p>Now we&#39;re approaching the territory of information
 overload here if you aren&#39;t knowledgeable in Jekyll or
@@ -178,19 +178,19 @@ need to pay attention to here is:</p>
 <p>In the _config.yml there are three sections for
 configuring your Octopress Blog. Spoiler: You must
 change <code>url</code>, and you&#39;ll probably change <code>title</code>,
-<code>subtitle</code> and <code>author</code>...</p>
+<code>subtitle</code> and <code>author</code>&#8230;</p>
 </blockquote>
 
 <p>If you&#39;re like me and want to know how the heck this
 stuff works, refer to Jonathon Cutrell&#39;s tuts+ Octopress guide <a href="http://webdesign.tutsplus.com/tutorials/getting-started-with-octopress--webdesign-11442">here</a>.</p>
 
-<h2 id="toc_2"><a href="http://octopress.org/docs/blogging">Start Blogging!</a>&rArr;</h2>
+<h2 id="start-blogging!&rarr;"><a href="http://octopress.org/docs/blogging">Start Blogging!</a>&rArr;</h2>
 
 <p>Here you will learn how to create a new post. Executing the command, <code>rake new_post[&quot;Hello World&quot;]</code>, will
 create a post with ending with <code>.markdown</code> under the
 <code>.../_posts/</code> directory. Open the file and you&#39;ll get
 something like this:</p>
-<div class="highlight"><pre><code class="text">---
+<div class="highlight"><pre><code class="language-text" data-lang="text">---
 layout: post
 title: &quot;Hello World&quot;
 date: 2014-03-30 5:59

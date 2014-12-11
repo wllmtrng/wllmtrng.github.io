@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: personal reminders | New Learnings from Old Understandings]]></title>
+  <title><![CDATA[Category: Personal Reminders | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/personal-reminders/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-12-05T06:05:14-08:00</updated>
+  <updated>2014-12-11T00:28:34-08:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Understanding Underlying Infrastructure is a Must]]></title>
+    <title type="html"><![CDATA[Understanding Underlying Infrastructure Is a Must]]></title>
     <link href="http://wllmtrng.github.io/blog/2014/04/29/understanding-underlying-infrastructure-is-a-must/"/>
     <updated>2014-04-29T07:46:34-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/04/29/understanding-underlying-infrastructure-is-a-must</id>

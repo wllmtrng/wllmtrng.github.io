@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: markdown | New Learnings from Old Understandings]]></title>
+  <title><![CDATA[Category: Markdown | New Learnings from Old Understandings]]></title>
   <link href="http://wllmtrng.github.io/blog/categories/markdown/atom.xml" rel="self"/>
   <link href="http://wllmtrng.github.io/"/>
-  <updated>2014-12-05T06:05:14-08:00</updated>
+  <updated>2014-12-11T00:28:34-08:00</updated>
   <id>http://wllmtrng.github.io/</id>
   <author>
     <name><![CDATA[William Truong]]></name>
@@ -18,28 +18,28 @@
     <link href="http://wllmtrng.github.io/blog/2014/04/08/octopress-basics-recap/"/>
     <updated>2014-04-08T06:43:14-07:00</updated>
     <id>http://wllmtrng.github.io/blog/2014/04/08/octopress-basics-recap</id>
-    <content type="html"><![CDATA[<p>```bash Octopress Cheatsheet</p>
+    <content type="html"><![CDATA[<p>&#8220;`bash Octopress Cheatsheet</p>
 
-<h1 id="toc_0">create a new post</h1>
+<h1 id="create-a-new-post">create a new post</h1>
 
 <p>rake new_post[&#39;Title of the post&#39;]</p>
 
-<h1 id="toc_1">create a new page</h1>
+<h1 id="create-a-new-page">create a new page</h1>
 
 <p>rake new_page[&#39;Title of the page&#39;]</p>
 
-<h1 id="toc_2">preview your work</h1>
+<h1 id="preview-your-work">preview your work</h1>
 
 <p>rake preview</p>
 
-<h1 id="toc_3">publish it</h1>
+<h1 id="publish-it">publish it</h1>
 
 <p>rake generate &amp;&amp; rake deploy</p>
 
-<h1 id="toc_4">commit and backup(automatic message)</h1>
+<h1 id="commit-and-backup(automatic-message)">commit and backup(automatic message)</h1>
 
 <p>git commit -am &quot;<code>date</code>&quot; &amp;&amp; git push origin source
-```</p>
+&#8220;`</p>
 ]]></content>
   </entry>
   
