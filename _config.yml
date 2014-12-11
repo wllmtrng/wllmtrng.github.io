@@ -36,7 +36,7 @@ category_dir: blog/categories
 markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "superscript"]
-pygments: false # default python pygments have been replaced by pygments.rb
+highlighter: null
 
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
